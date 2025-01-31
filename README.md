@@ -32,6 +32,10 @@ clusters: The cluster labels assigned by K-Means.
 
 A 2D scatter plot showing the clusters in the reduced latent space.
 
+
+
+
+
 You can install the required packages using the following command:
 
 ```bash
